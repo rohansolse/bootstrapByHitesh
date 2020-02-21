@@ -1,0 +1,22 @@
+body{
+    background: url(images/eye.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero{
+    color: #fff;
+    text-align: center;
+    margin-top: 20%;
+    letter-spacing: -0.1rem;
+    font-size: 60px;
+    font-family: 'Krona One';
+}
+
+.heading{
+    color: tomato;
+}
+
+.ima{
+    width: 150px;
+    height: 120px;
+}
